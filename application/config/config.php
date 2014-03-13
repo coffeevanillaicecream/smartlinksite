@@ -14,8 +14,10 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'http://smartlinksite.ap01.aws.af.cm';
-
+$config['base_url']	= 'http://smartlinksite.ap01.aws.af.cm/';
+//live site
+//$config['base_url']	= 'http://localhost/smartlinksite/';
+//local
 /*
 |--------------------------------------------------------------------------
 | Index File
